@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudharsan N
-I am Pursuing my bachelors in the specialization of Artificial Intelligence and Data Science </h1>
+<h1 align="center">Hi 👋, I'm Sudharsan N</h1>
 <h3 align="center">I am a Passionate Data Analyst || Data Scientist || Content Writter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsann583&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsann583" /> </p>
